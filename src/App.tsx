@@ -4,7 +4,7 @@ import { MuiNavbar } from './components/MuiNavbar'
 function App() {
   return (
     <>
-    <div style={{ width: '100%' }}>
+    <div>
       <MuiNavbar />
     </div>
     </>
